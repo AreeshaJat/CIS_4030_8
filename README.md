@@ -48,3 +48,11 @@ After selecting 'Interact' on a movie's page, users are taken to the Interact Sc
 
 ## Screen Recording
 
+
+https://github.com/AreeshaJat/CIS_4030_8/assets/106934155/92e23921-831e-4668-bb59-2f9807f3854f
+
+
+
+
+
+
