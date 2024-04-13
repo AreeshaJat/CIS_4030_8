@@ -42,8 +42,8 @@ After selecting 'Interact' on a movie's page, users are taken to the Interact Sc
 1. Clone this repository to your local machine.
 2. Open the project folder in your code editor.
 3. View the cinequest folder to explore the functionality.
-4. Type the following command in the terminal 'open -a simulator' if you want to test the application on your laptop. Otherwise connect your phone to your laptop and choose your phone as the device on VS Code.
-5. Type 'flutter run' and the app should open.
+4. Type the following command in the terminal **'open -a simulator'** if you want to test the application on your laptop. Otherwise connect your phone to your laptop and choose your phone as the device on VS Code.
+5. Type **'flutter run'** and the app should open.
 
 **NOTE: The simulator will take time to open the first time around.**
 
