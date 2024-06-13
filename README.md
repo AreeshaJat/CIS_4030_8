@@ -1,5 +1,4 @@
 # Cinequest
-Cinequest: This is a Repo for CIS*4030 Group 8
 
 ## Project Description
 Our app is called CineQuest, a movie encyclopedia app that provides users with a grand catalog of films for all-in-one place access to all information about movies. The problem we aim to solve with CineQuest is the lack of knowledge audiences potentially possess regarding their desired movies, for instance, audiences who do not know what a film is about before watching it, cast list, genres, etc. Also, we aim to solve the problem concerning the difficulty in choosing which movie to watch and making streaming choices in a diverse market. We identified this problem through our observation of the growing demand for personalized content consumption and the challenges users face in finding movies tailored to their preferences.
