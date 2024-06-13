@@ -1,4 +1,4 @@
-# CIS_4030_8
+# Cinequest
 Cinequest: This is a Repo for CIS*4030 Group 8
 
 ## Project Description
